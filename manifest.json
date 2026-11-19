@@ -1,0 +1,17 @@
+{
+  "name": "FlipClock CYD 2.0",
+  "version": "2.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": false,
+      "parts": [
+        {
+          "path": "firmware/FlipClock_CYD_2.0.merged.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
